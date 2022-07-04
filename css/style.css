@@ -1,0 +1,40 @@
+
+body {
+
+    background-color: #EAF6F6;
+    padding: 0;
+    margin: 0;
+}
+hr{
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    font-style: oblique;
+    color: #66BFBF; 
+}
+/* .topnav {
+    background-color: #333;
+    overflow: hidden;
+
+}
+.topnav a{
+    float:left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color: #04AA6D;
+    color: white
+} */
